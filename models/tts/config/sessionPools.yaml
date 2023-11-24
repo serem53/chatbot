@@ -1,0 +1,10 @@
+defaultPolicy: DefaultPolicy
+sessionPoolPolicies:
+  PreWarmingPolicy:
+    - name: en-US_MichaelV3Voice
+    - name: en-US_HenryV3Voice
+    - name: en-GB_KateV3Voice
+    - name: en-GB_JamesV3Voice
+    - name: en-US_LisaV3Voice
+    - name: en-US_EmilyV3Voice
+    
